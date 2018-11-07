@@ -19,9 +19,15 @@ proguard/
 *.iws
 .idea/
 
-#Gradle
+# Gradle
 .gradletasknamecache
 .gradle/
 build/
 bin/
 classes/
+
+# Node
+**/node_modules/
+**/npm-debug.log
+**/public/bundle.js
+**/public/style.css
