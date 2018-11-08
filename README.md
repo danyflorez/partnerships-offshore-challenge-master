@@ -15,3 +15,7 @@ http://localhost:8080
 ````
 ./gradlew test
 ````
+
+## Notes
+
+This application should run on Java 8
